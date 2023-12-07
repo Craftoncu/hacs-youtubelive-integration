@@ -1,5 +1,6 @@
 {
   "domain": "youtube",
+  "version": "0.0.0",
   "name": "YouTube",
   "codeowners": ["@craftoncu"],
   "config_flow": true,
